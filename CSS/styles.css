@@ -1,0 +1,40 @@
+.main-heading h2,h3{
+  text-align: center;
+  margin: auto;
+  color: #d54062;
+  padding: 20px;
+}
+.btn-color2{
+  background-color: #d54062;
+  color: white;
+  width: 150px;
+  margin: 20px auto;  
+}
+.text-align-center{
+  text-align: center;
+  margin: auto;
+}
+.mw-650{
+  padding: 20px;
+  max-width: 650px;
+  margin: auto;
+}
+.mw-500{
+  padding: 20px;
+  max-width: 500px;
+  margin: auto;
+}
+.text-align-left{
+  text-align: left;
+}
+.make-bold , .make-bold td{
+  font-weight: 500;
+  padding: 5px 10px;
+}
+body{
+  font-size: 17px;
+}
+.btn-special{
+  border-radius: 20px;
+  width: 200px;
+}
